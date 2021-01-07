@@ -10,4 +10,4 @@ checked if its a dns request and if its on the list the packet simply gets dropp
 
 # Installation
 Download espgate.ino and iplookup.h from this repo install netfilter library from [espnetfilter](https://github.com/yippiez/esp-netfilter)
- and put them in the same directory as your espgate.ino. then you can use the Arduino IDE to compile and flash your code. 
+ and put the netif library and iplookup.h in the same directory as your espgate.ino. then you can use the Arduino IDE to compile and flash your code. 
