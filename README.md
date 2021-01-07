@@ -1,6 +1,6 @@
 # Espgate
 
-espgate allowys you to use your esp8266 or esp32 microcontroller to create a wifi range extender 
+espgate allows you to use your esp8266 or esp32 microcontroller to create a wifi range extender 
 (napt) with ad blocking (dns filtering) capabilities.
 
 # How it works
